@@ -38,7 +38,7 @@ echo
 sudo apt install android-tools-adb -y &&
 sudo apt install android-tools-fastboot -y &&
 sudo apt install scrcpy -y
-chmod +x myphone.sh
+chmod +x myphone.sh sndcpy
 echo
 echo
 echo Giving executable permissions to all required files...
